@@ -31,6 +31,8 @@ int main()
 	int key = -1;
 	int index = -1;
 
+	printf("2019037002 hankyuwon\n");
+	
 	srand(time(NULL));
 
 	do{
